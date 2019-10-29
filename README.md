@@ -1,1 +1,1 @@
-# lu
+# config-repo
